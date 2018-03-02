@@ -26,3 +26,11 @@ body {
 .container {
   text-align: center;
 }
+
+#image {
+  float: left;
+}
+
+#img {
+  float: right;
+}

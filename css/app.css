@@ -2,9 +2,14 @@ h1 {
   font-family: fantasy;
   font-style: oblique;
   text-align: center;
+  padding: 6px;
+  margin: 20px;
+  background-color: #7395AE;
 }
 
-body {}
+body {
+  background-color: #557A95;
+}
 
 .player1 {
   float: left;
@@ -16,4 +21,8 @@ body {}
   float: right;
   font-weight: bold;
   font-style: italic;
+}
+
+.container {
+  text-align: center;
 }

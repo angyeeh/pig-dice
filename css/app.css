@@ -3,3 +3,17 @@ h1 {
   font-style: oblique;
   text-align: center;
 }
+
+body {}
+
+.player1 {
+  float: left;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.player2 {
+  float: right;
+  font-weight: bold;
+  font-style: italic;
+}
